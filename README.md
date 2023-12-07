@@ -4,4 +4,4 @@ I'm Programmer. <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giph
 My language is
 Html, Css, Javascript Sass, Scss, Tailwindcss, Bootstrap, React-bootsrap, Material Css, React, Style-components, Next Js, Zustand, Rudux, Typescript, Redux Toolkit, Git 
 
-If you need this language and you can write this language, please write my telegram account or github. Then we open github Team.
+If you need this language or you can write this language, write my telegram account. Then we open Team.
