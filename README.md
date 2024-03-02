@@ -1,7 +1,23 @@
-### Hi there 👋
-I'm Programmer. <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47nmudk69r0463s4okzx95pa9bangt2ee947dwmsif&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100px">
+About Me
+Hello there! 👋 I'm Elbotir, passionate about creating new projects based in Buxara. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.
 
-My language is
-Telegram Bot, Web Bot Yaratish, Windows Qilish, Komputer Bios, Html, Css, Javascript Sass, Scss, Tailwindcss, Bootstrap, React-bootsrap, Material Css, React, Style-components, Next. Js, Zustand, Rudux, Typescript, Redux Toolkit, Md5, Git 
+🚀 What I Do
+🌐 I have experience in Html, Css, Bootstrap, Material.ui, TailwindCss, Javascript, Jquery ReactJs.
+💡 I love Math and I often get inspiration for my coding projects from Pinterest.
+🌱 I'm currently learning Next Js.
+👯 I am open to cooperation and like to work on interesting projects with like-minded people.
+🔧 Technologies & Tools
+Below are some of the technologies and tools I often work with:
 
-If you need this language or you can write this language, write my telegram account. Then we open Team.
+Telegram Bot, Web Bot Yaratish, Windows making, Komputer Bios, Html, Css, Javascript Sass, Scss, Tailwindcss, Bootstrap, React-bootsrap, Material Css, React, Style-components, Next. Js, Zustand, Rudux, Typescript, Redux Toolkit, Md5, Git 
+
+📚 My Projects
+I'm actively working on. New World Technologies Feel free to check them out and provide feedback!
+
+📫 Let's Connect
+GitHub: https://github.com/Elbotir2008
+Telegram: https://t.me/asadovelbotir
+Website: https://portfolio-1-pi-cyan.vercel.app/
+Feel free to reach out if you share similar interests or if you have exciting projects in mind. I'm always open to new opportunities and collaborations!
+
+Happy coding! 🚀
