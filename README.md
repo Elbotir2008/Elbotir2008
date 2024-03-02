@@ -1,5 +1,7 @@
-About Me
-Hello there! 👋 I'm Elbotir, passionate about creating new projects based in Buxara. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.
+
+Hello there!
+
+👋 I'm Elbotir, passionate about creating new projects based in Buxara. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.
 
 🚀 What I Do
 🌐 I have experience in Html, Css, Bootstrap, Material.ui, TailwindCss, Javascript, Jquery ReactJs.
