@@ -29,7 +29,7 @@ GitHub: https://github.com/Elbotir2008
 
 Telegram: https://t.me/asadovelbotir
 
-Website: https://portfolio-1-pi-cyan.vercel.app/
+Website: https://onlineandoza.uz/
 
 Feel free to reach out if you share similar interests or if you have exciting projects in mind. I'm always open to new opportunities and collaborations!
 
