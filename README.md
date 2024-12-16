@@ -2,7 +2,7 @@
 Hello there!
 
 # 💫 About Me:
-👋 I'm Elbotir, passionate about creating new projects based in Buxara. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.<br><br>🚀 What I Do<br><br>🌐 I have experience in Html, Css, Bootstrap, Material.ui, TailwindCss, Javascript, Jquery ReactJs.<br><br>💡 I love Math and I often get inspiration for my coding projects from Pinterest.<br><br>🌱 I'm currently learning Next Js.<br><br>👯 I am open to cooperation and like to work on interesting projects with like-minded people.
+👋 I'm Elbotir, passionate about creating new projects based in Tashkent. I love working on React.js Javascript and I'm always looking to learn new technologies and solve interesting problems.<br><br>🚀 What I Do<br><br>🌐 I have experience in Html, Css, Bootstrap, Material.ui, TailwindCss, Javascript, Jquery ReactJs.<br><br>💡 I love Math and I often get inspiration for my coding projects from Pinterest.<br><br>🌱 I'm currently learning Next Js.<br><br>👯 I am open to cooperation and like to work on interesting projects with like-minded people.
 
 
 # 💻 Tech Stack:
